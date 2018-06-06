@@ -1,14 +1,14 @@
 [toc]
 
 ## 1. 基本命令
-###配置用户名
+### 配置用户名
 
 	git config --global user.name "xxx"                      
 
-###配置邮件
+### 配置邮件
 
 	git config --global user.email "xxx@xxx.com"            
-###初始化git仓库
+### 初始化git仓库
 以下命令会使你的当前目录变成Git可以管理的仓库
 
 	git init
